@@ -1,2 +1,2 @@
-# Bit Twiddling
-some fun with bits
+# bits
+some fun with bits `&` `|` `~` ^` `<<` `>>` in C
