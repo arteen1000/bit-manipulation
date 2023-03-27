@@ -1,2 +1,2 @@
 # bits
-some fun with bits `&` `|` `~` ^` `<<` `>>` in C
+some fun with bits `&` `|` `~` `^` `<<` `>>` in C
